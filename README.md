@@ -1,13 +1,11 @@
 Note: Adapted from the politically-charged ISO 3166-1-alpha-2
 
+~~
 ISO 3166-1-alpha-2 English country names and code elements. This list states
 the country names (official short names in English) in alphabetical order as
-given in [ISO 3166-1][] and the corresponding ISO 3166-1-alpha-2 code elements.
+given in [ISO 3166-1][] and the corresponding ISO 3166-1-alpha-2 code elements.~~
 
 [ISO 3166-1]: http://www.iso.org/iso/home/standards/country_codes.htm
-
-This list is updated whenever a change to the official code list in ISO 3166-1
-is effected by the ISO 3166/MA.
 
 It lists 250 official short names and code elements as of Dec 2012.
 
@@ -28,4 +26,3 @@ site](http://www.iso.org/iso/home/standards/country_codes.htm):
 This carries the implication (though not spelled out) that other uses are not
 permitted and that, therefore, there may be rights preventing further general
 use and reuse.
-
